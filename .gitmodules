@@ -1,3 +1,0 @@
-[submodule "Tensorflow/workspace/training_demo/models/Tensorflow/models"]
-	path = Tensorflow/workspace/training_demo/models/Tensorflow/models
-	url = https://github.com/tensorflow/models.git
