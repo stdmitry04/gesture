@@ -1,1 +1,1 @@
-C:\Users\Dmitry\PycharmProjects\gesture\Tensorflow\models
+Tensorflow/models
