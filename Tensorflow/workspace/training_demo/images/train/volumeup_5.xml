@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>volumeup_5.jpg</filename>
+	<path>C:/Users/Dmitry/PycharmProjects/gesture16/Tensorflow/workspace/training_demo/images/train/volumeup_5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>volumeup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>354</ymin>
+			<xmax>611</xmax>
+			<ymax>1041</ymax>
+		</bndbox>
+	</object>
+</annotation>

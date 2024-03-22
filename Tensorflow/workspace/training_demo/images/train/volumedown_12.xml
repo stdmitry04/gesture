@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>volumedown_12.jpg</filename>
+	<path>C:/Users/Dmitry/PycharmProjects/gesture16/Tensorflow/workspace/training_demo/images/train/volumedown_12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>volumedown</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>501</xmin>
+			<ymin>236</ymin>
+			<xmax>1252</xmax>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+</annotation>

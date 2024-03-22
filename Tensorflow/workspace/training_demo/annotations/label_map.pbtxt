@@ -1,0 +1,22 @@
+item {
+    id: 1
+    name: 'stop'
+}
+
+item {
+    id: 2
+    name: 'full'
+}
+item {
+    id: 3
+    name: 'collapsed'
+}
+
+item {
+    id: 4
+    name: 'volumeup'
+}
+item {
+    id: 5
+    name: 'volumedown'
+}

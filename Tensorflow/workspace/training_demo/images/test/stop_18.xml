@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>stop_18.jpg</filename>
+	<path>C:/Users/Dmitry/PycharmProjects/gesture16/Tensorflow/workspace/training_demo/images/test/stop_18.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>107</ymin>
+			<xmax>872</xmax>
+			<ymax>921</ymax>
+		</bndbox>
+	</object>
+</annotation>

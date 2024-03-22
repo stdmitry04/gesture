@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>collapsed_18.jpg</filename>
+	<path>C:/Users/Dmitry/PycharmProjects/gesture16/Tensorflow/workspace/training_demo/images/test/collapsed_18.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>collapsed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>345</xmin>
+			<ymin>351</ymin>
+			<xmax>747</xmax>
+			<ymax>763</ymax>
+		</bndbox>
+	</object>
+</annotation>
